@@ -29,7 +29,7 @@ This commands includes
 ## Output
 netstat
 
-![image](netsta.png)
+![image](netstat.png)
 
 ipconfig
 
