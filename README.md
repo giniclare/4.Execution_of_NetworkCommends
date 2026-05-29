@@ -27,6 +27,46 @@ This commands includes
 <BR>
 
 ## Output
+netstat
+
+![image](netstat.png)
+
+ipconfig
+
+![image](ipconfig.png)
+
+ping
+
+![image](ping.png)
+
+tracert
+
+![image](tracert.png)
+
+nslookup
+
+![image](nslookup.png)
+
+getmac
+
+![image](getmac.png)
+
+hostname
+
+![image](hostname.png)
+
+nbtstat
+
+![image](nbtstat.png)
+
+arp
+
+![image](arp.png)
+
+systeminfo
+
+![image](systeminfo.png)
+
 
 ## Result
 Thus Execution of Network commands Performed 
